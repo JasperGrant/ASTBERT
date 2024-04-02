@@ -1,0 +1,11 @@
+Requests==2.31.0
+javalang==0.13.0
+comex
+transformers==4.31.0
+numpy
+tensorflow<2.11
+keras<2.11
+accelerate == 0.27.2
+nltk
+matplotlib
+pandas

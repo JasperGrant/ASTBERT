@@ -1,0 +1,12 @@
+/data
+/.idea
+/.vscode
+__pycache__
+data/methods.json
+data/paths.json
+logs
+data/methods.json
+/.venv2
+/trained_models
+.env
+
