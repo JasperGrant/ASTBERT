@@ -105,3 +105,5 @@ Here you can experiment with ASTBERT models directly from Hugging Face. The firs
 ### Notebook 5: Finetune Model
 - **CUDA Out of Memory**: Reduce the batch size in the model.compile function call.
 - **Format error in paths.json**: Step 4 has been interrupted. Either rerun the notebook from the beginning or manually remove the last entry in paths.json
+
+# Credit to Yuci Wang for being my partner on this project
