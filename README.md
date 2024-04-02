@@ -30,7 +30,7 @@ Fine tuned models can be found here: https://huggingface.co/JasperGrant
   ```
 - Ensure the folder C:\Users\YOUR_USERNAME\AppData\Local\Temp\comex exists and is not read only
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasperGrant&langs_count=5&layout=compact&show_icons=true&theme=radical)]
 ## Running Experiments
 
 ### Notebook 1: Data Gather
